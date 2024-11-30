@@ -1,0 +1,41 @@
+# Visual Studio settings
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
+out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.ldf
+*.mdf
+
+# Configuration files
+appsettings*.json
+*.env
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Other
+*.swp
+*.bak
+*.tmp
+
+# JetBrains Rider settings
+.idea/
+
+# ReSharper settings
+_ReSharper*/
